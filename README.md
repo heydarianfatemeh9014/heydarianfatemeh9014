@@ -1,6 +1,3 @@
-![Demo](demo.gif)
-
-
 
 # 👋 Hello everybody!
 
